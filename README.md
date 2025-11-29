@@ -1,4 +1,4 @@
-## **sohil shingala**
+## **Sohil Shingala**
 
 💼 Full-Stack Web Developer (Laravel + Vue)<br>
 🏠 Rajkot, Gujarat, India<br>
